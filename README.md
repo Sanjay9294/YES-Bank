@@ -1,0 +1,2 @@
+# YES-Bank
+linear regression
